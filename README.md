@@ -10,3 +10,4 @@
 * Sprint 2 begins development for release 1.1
 * Sprint 2: Implement feature DJW-000006
 * Sprint 2: Implement feature DJW-000007
+* Sprint 1: Create Release 1.1 for UAT
