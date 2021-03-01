@@ -8,3 +8,4 @@
 * UAT 1.0: Fix bug DJW-000004
 * UAT 1.0: Fix bug DJW-000005
 * Sprint 2 begins development for release 1.1
+* Sprint 2: Implement feature DJW-000006
